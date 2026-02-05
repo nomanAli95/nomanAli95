@@ -1,8 +1,44 @@
 # 💫 About Me:
-I'm a backend developer who gets excited about building robust systems that power real-time communication and collaboration. I'm currently working with and learning about Java, RabbitMQ, MongooseIM for messaging, Janus for WebRTC, Consul for microservices, Firebase and APNS for push notifications, and AWS for deployment. Discovering new things about these technologies every day.<br>What I love most? Working with frontend and mobile devs to turn ideas into full-fledged applications. There's something satisfying about seeing your backend logic come to life in a smooth UI or a responsive mobile app.<br>Always learning, always building, and always up for a good technical challenge.
+I’m a backend developer who enjoys building solid systems for real-time communication and collaboration ⚙️
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaukatnomanali) 
+Mostly working with Java.  
+Messaging and real-time stuff with RabbitMQ, MongooseIM, and Janus WebRTC 💬  
+Microservices and service discovery using Consul 🧩  
+Push notifications with Firebase and APNS 🔔  
+Deployed and running on AWS ☁️
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=flat-square&logo=quarkus&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![MongooseIM](https://img.shields.io/badge/MongooseIM-XMPP-green?style=flat-square) ![Janus](https://img.shields.io/badge/Janus-WebRTC-blueviolet?style=flat-square) ![Consul](https://img.shields.io/badge/Consul-%23F24C53.svg?style=flat-square&logo=consul&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![APNS](https://img.shields.io/badge/APNS-000000?style=flat-square&logo=apple&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=flat-square&logo=openapiinitiative&logoColor=white)
+What I really like?  
+Working closely with frontend and mobile devs to turn ideas into real products 🚀  
+Seeing backend logic come alive in a smooth UI or a responsive mobile app is always satisfying ✨
+
+Always learning 📚  
+Always building 🛠️  
+Always up for a good technical challenge 💡
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shaukatnomanali/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
+         height="36"
+         alt="LinkedIn"/>
+  </a>
+</p>
+
+## 💻 Core Tech Stack
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/openjdk" height="40" alt="Java"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/quarkus" height="40" alt="Quarkus"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apachemaven" height="40" alt="Maven"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"
+       height="40"
+       alt="Swagger"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql" height="40" alt="PostgreSQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/hibernate" height="40" alt="Hibernate"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/rabbitmq" height="40" alt="RabbitMQ"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/consul" height="40" alt="Consul"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"
+       height="40"
+       alt="AWS"/>
+</p>
