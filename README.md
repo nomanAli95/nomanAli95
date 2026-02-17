@@ -5,7 +5,7 @@ Mostly working with Java.
 Messaging and real-time stuff with RabbitMQ, MongooseIM, and Janus WebRTC 💬  
 Microservices and service discovery using Consul 🧩  
 Push notifications with Firebase and APNS 🔔  
-Deployed and running on AWS ☁️
+Selective AWS Lambda integrations for event-driven side services ☁️
 
 What I really like?  
 Working closely with frontend and mobile devs to turn ideas into real products 🚀  
