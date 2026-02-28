@@ -2,8 +2,8 @@
 I build things that talk to each other.
 
 **What I'm working with:**
-- Java as primary language, Quarkus as framework, Maven as build tool
-- PostgreSQL as relational database, with Hibernate as ORM
+- Java as primary language, Quarkus as framework and Maven as build tool
+- PostgreSQL as relational database with Hibernate as ORM
 - MongooseIM as XMPP server for instant messaging
 - RabbitMQ for async messaging and event-driven communication
 - Janus as WebRTC gateway for audio and video meetings
